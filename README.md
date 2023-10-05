@@ -16,7 +16,7 @@
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
  
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">Iam PROGRAMMER and DEVELOPER from BANGLADESH</h3>
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mrx-Rabbi-Rouf&label=Profile%20views&color=eb4d3d&style=flat-square" alt="Mrx-Rabbi-Rouf" /> </p>
 </i></b></h3>
@@ -27,19 +27,19 @@
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
-- 😏 𝐍𝐀𝐌𝐄:- 𝐌𝐑𝐗 𝐑𝐀𝐁𝐁𝐈 𝐑𝐎𝐔𝐅
+- 🫶 𝐍𝐀𝐌𝐄:- 𝐌𝐑𝐗 𝐑𝐀𝐁𝐁𝐈 𝐑𝐎𝐔𝐅 🫶
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
-- 🤨 𝐇𝐎𝐁𝐁𝐘 :- 𝗣𝗥𝗢𝗚𝗥𝗔𝗠𝗠𝗜𝗡𝗚
+- 🥰 𝐇𝐎𝐁𝐁𝐘 :- 𝗣𝗥𝗢𝗚𝗥𝗔𝗠𝗠𝗜𝗡𝗚 🥰
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
-- ❤ 𝐋𝐎𝐕𝐄𝐑:- 𝐕𝐈𝐑𝐓𝐔𝐀𝐋
+- ❤ 𝐋𝐎𝐕𝐄𝐑:- 𝐕𝐈𝐑𝐓𝐔𝐀𝐋 ❤️
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
-- 🤲🏻 𝐑𝐄𝐋𝐈𝐆𝐈𝐎𝐍:- 𝐈𝐒𝐋𝐀𝐌
+- 🤲🏻 𝐑𝐄𝐋𝐈𝐆𝐈𝐎𝐍:- 𝐈𝐒𝐋𝐀𝐌 🤲🏻
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
@@ -51,7 +51,8 @@
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
-- ⚡ Fun fact **I think I am funny**
+-😁 I think I am funny 😁
+-😈BUT IAM VERY DANGEROUS😈
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
